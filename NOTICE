@@ -1,0 +1,9 @@
+LuminaCraft incorporates LightCraft and PhotoCraft by their respective
+contributors, under MIT OR Apache-2.0. LuminaCraft selects the MIT license.
+The pinned revisions and source URLs are recorded in UPSTREAMS.json.
+Original license texts, notices and asset attributions remain in vendor/
+and upstream/. Those files govern the corresponding third-party materials.
+
+The LuminaCraft application artwork was created for this project with OpenAI
+image generation and packaged from the approved v9 design. See
+assets/ATTRIBUTION.md for application assets and third-party notices.

@@ -1,0 +1,19 @@
+{
+  "lightcraft": {
+    "url": "https://github.com/storytold/lightcraft",
+    "commit": "b3d392b4994ee99dc389890f006600769d0c4ff5",
+    "license": "MIT OR Apache-2.0",
+    "integration": {
+      "source": "complete tracked tree from the pinned commit",
+      "path": "upstream/lightcraft",
+      "changes": "docs/完整上游接入.md",
+      "desktop_host": "src/upstream_desktop",
+      "license_selected": "MIT"
+    }
+  },
+  "photocraft": {
+    "url": "https://github.com/storytold/photocraft",
+    "commit": "583425b4df1c57a4515f591fed64fcedf8440cba",
+    "license": "MIT OR Apache-2.0"
+  }
+}

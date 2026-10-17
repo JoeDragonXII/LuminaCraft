@@ -1,0 +1,10 @@
+/.tools/
+/target/
+/dist/
+/LuminaCraft.exe
+/verification/private/
+/luminacraft-release/
+*.lumina-project/
+*.tmp
+*.log
+
